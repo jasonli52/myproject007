@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-      <p>项目开始了</p>
+      <!-- 挖坑 将映射的路由展示到此区域 -->
+      <router-view></router-view>
   </div>
 </template>
 
